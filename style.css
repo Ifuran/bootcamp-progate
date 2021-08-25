@@ -67,9 +67,9 @@ header {
   left:  0;
 }
 .container p {
-font-size: 20px;
-color:whitesmoke;
-line-height: 5px;
+  font-size: 20px;
+  color:whitesmoke;
+  line-height: 5px;
 }
 .container{
   margin-bottom: 60px;
@@ -106,7 +106,7 @@ line-height: 5px;
     rgba(0,0,0,1) 100%);
 	font-family: inherit;
   text-align: center;
-  color: inherit;
+  color: white;
 }
 .film h2 {
 	text-align: center;
